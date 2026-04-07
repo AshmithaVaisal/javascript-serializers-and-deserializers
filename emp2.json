@@ -1,0 +1,13 @@
+{
+    "empName": "rajesh",
+    "empId": 102,
+    "phone": {
+        "mobile": 7418412242,
+        "landline": 978990393
+    },
+    "skills": [
+        "manual testing",
+        "automation testing",
+        "coding"
+    ]
+}

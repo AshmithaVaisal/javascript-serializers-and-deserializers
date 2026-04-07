@@ -1,0 +1,10 @@
+{
+    "empName":"ashmitha",
+    "empId":101,
+    "phone": {
+        "mobile":8526626252,
+        "landline":25636252563
+    },
+    "skills":["manual testing","automation testing","coding"]
+
+}
